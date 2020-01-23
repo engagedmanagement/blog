@@ -1,6 +1,6 @@
 ---
 title: A minimal R Markdown example
-date: January 15, 2020
+date: January 23, 2020
 output: 
   prettydoc::html_pretty:
     theme: cayman
