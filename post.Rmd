@@ -1,7 +1,7 @@
 ---
-title: "Your Document Title"
+title: "Awesome"
 author: "Document Author"
-date: "2020-02-10" # DO NOT USE Sys.Date()
+date: "February 10, 2020" # DO NOT USE Sys.Date()
 output:                    # DO NOT CHANGE
   prettydoc::html_pretty:  # DO NOT CHANGE
     theme: cayman          # DO NOT CHANGE
@@ -22,4 +22,3 @@ Use the Knit button of RStudio to preview your post in HTML format. You should h
 ## Convert your post
 
 Use `prettyjekyll::FormatPost` to convert your post.
-
